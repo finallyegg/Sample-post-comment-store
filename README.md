@@ -1,5 +1,7 @@
 # Sample-post-comment-store
-This is a simple post - comment app implemented in express.js and react, backend code hosted on google firebase function
+This is a post - comment app implemented in express.js and react, backend code hosted on google firebase function
+
+## React.js, Express.js, firebase storage, firebase cloud function
 
 ### Website: https://example-post-comment.web.app 
 
